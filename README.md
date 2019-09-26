@@ -1,4 +1,4 @@
-Build circuits and logic gates with paper circuits 
+Build logic gates with paper circuits 
 ----------------------------------------------
 In this lab you will build three circuits: a basic circuit, an ***AND*** gate and an ***OR*** gate. For materials you will need the following:
 * card stock (paper)
