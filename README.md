@@ -15,7 +15,7 @@ In this lab you will build three circuits: a basic circuit, an ***AND*** gate an
 Build a basic circuit
 ---------------------
 The basic circuit will have the following shape with a "tail" to fold over the battery and a gap for the LED.   
-![SolderGates2.JPG](SolderGates2.JPG)   
+![SolderGates7.JPG](SolderGates7.JPG)   
 The tail will fold over the top of the button cell battery as shown below,   
 ![SolderGates3.JPG](SolderGates3.JPG)    
 Solder each place where seperate pieces of tape meet.   
