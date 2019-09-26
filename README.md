@@ -7,5 +7,6 @@ In this lab you will build three circuits: a basic circuit, an and gate and an o
 * scissors
 * binder clip
 * solder
-* soldering iron   
+* soldering iron    
+
 ![SolderGates1.JPG](SolderGates1.JPG)
