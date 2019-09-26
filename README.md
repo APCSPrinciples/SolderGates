@@ -24,3 +24,5 @@ Bend the leads of the LED out as shown and solder it into place. You may find th
 ![SolderGates5.JPG](SolderGates5.JPG) 
 When you are finished, put the battery in position between the tail and the rest of the circuit. You can use the binder clip to hold the battery in place. If the LED doesn't light up, flip the battery over upside down. The LED should light up as shown below.   
 ![SolderGates6.JPG](SolderGates6.JPG) 
+
+*This assignment is based on Jie Qi's [High-Low Tech Paper Circuits](http://highlowtech.org/?p=2505)*
