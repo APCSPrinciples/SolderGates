@@ -1,6 +1,6 @@
 Build logic gates with paper circuits 
 ----------------------------------------------
-In this lab you will build three circuits: a basic circuit, an and gate and an or gate. For materials you will need the following:
+In this lab you will build three circuits: a basic circuit, an ***AND*** gate and an ***OR*** gate. For materials you will need the following:
 * card stock (paper)
 * copper tape
 * button cell battery (e.g. CR2032)
