@@ -16,9 +16,11 @@ Build a basic circuit
 ---------------------
 The basic circuit will have the following shape with a "tail" to fold over the battery and a gap for the LED.   
 ![SolderGates2.JPG](SolderGates2.JPG)   
-The tail will fold over the button cell battery as shown below   
+The tail will fold over the top of the button cell battery as shown below,   
 ![SolderGates3.JPG](SolderGates3.JPG)    
 Solder each place where seperate pieces of tape meet.   
-![SolderGates4.JPG](SolderGates4.JPG) 
+![SolderGates4.JPG](SolderGates4.JPG)    
 Bend the wires of the LED out as shown and solder it into place. You may find the binder clip helpful to keep the LED from moving as you solder the leads.   
 ![SolderGates5.JPG](SolderGates5.JPG) 
+When you are finished, put the battery in position between the tail and the rest of the circuit. You can use the binder clip to hold the battery in place. If the LED doesn't light up, flip the battery over upside down. The LED should light up as shown below.   
+![SolderGates6.JPG](SolderGates6.JPG) 
