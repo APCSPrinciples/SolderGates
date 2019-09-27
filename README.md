@@ -23,6 +23,16 @@ Solder each place where seperate pieces of tape meet.
 Bend the leads of the LED out as shown and solder it into place. You may find the binder clip helpful to keep the LED from moving as you solder the leads.   
 ![SolderGates5.JPG](SolderGates5.JPG) 
 When you are finished, put the battery in position between the tail and the rest of the circuit. You can use the binder clip to hold the battery in place. If the LED doesn't light up, flip the battery over upside down. The LED should light up as shown below.   
-![SolderGates6.JPG](SolderGates6.JPG) 
+![SolderGates6.JPG](SolderGates6.JPG)    
+
+Add switches to make ***AND*** and ***OR*** gates
+---------------------
+***AND*** and ***OR*** gates both use switches in different configurations. To make a switch, fold about an inch of copper tape back over itself like shown below
+![SolderGates8.JPG](SolderGates8.JPG)   
+
+To make an ***AND*** gate put two switches in series in a circuit as shown below.   
+![SolderGates9.JPG](SolderGates9.JPG)   
+
+To make an ***OR*** gate put two switches in parallel in a circuit as shown below.  
 
 *This assignment is based on Jie Qi's [High-Low Tech Paper Circuits](http://highlowtech.org/?p=2505)*
