@@ -17,7 +17,7 @@ The basic circuit will have the following shape with a "tail" to fold over the b
 ![SolderGates7.JPG](SolderGates7.JPG)   
 The tail will fold over the top of the button cell battery as shown below,   
 ![SolderGates3.JPG](SolderGates3.JPG)    
-If you have have soldering iron you can solder each place where seperate pieces of tape meet.   
+If you have have soldering iron you can solder each place where separate pieces of tape meet.   
 ![SolderGates4.JPG](SolderGates4.JPG)    
 Bend the leads of the LED out as shown and tape or solder it into place. You may find the binder clip helpful to keep the LED from moving as you solder the leads.   
 ![SolderGates5.JPG](SolderGates5.JPG) 
