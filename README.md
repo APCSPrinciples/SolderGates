@@ -26,7 +26,7 @@ When you are finished, put the battery in position between the tail and the rest
 
 Add switches to make ***AND*** and ***OR*** gates
 ---------------------
-***AND*** and ***OR*** gates both use switches in different configurations. To make a switch, fold about an inch of copper tape back over itself like shown below
+***AND*** and ***OR*** gates both use switches in different configurations. To make a switch, fold about an inch of copper tape back over on itself as shown below
 ![SolderGates8.PNG](SolderGates8.PNG)   
 
 To make an ***AND*** gate put two switches in series in a circuit as shown below.   
