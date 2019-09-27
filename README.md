@@ -7,8 +7,7 @@ In this lab you will build three circuits: a basic circuit, an ***AND*** gate an
 * LED (or buzzer)
 * scissors
 * binder clip
-* solder
-* soldering iron    
+* OPTIONAL: soldering iron and solder 
 
 ![SolderGates1.JPG](SolderGates1.JPG)
 
@@ -18,9 +17,9 @@ The basic circuit will have the following shape with a "tail" to fold over the b
 ![SolderGates7.JPG](SolderGates7.JPG)   
 The tail will fold over the top of the button cell battery as shown below,   
 ![SolderGates3.JPG](SolderGates3.JPG)    
-Solder each place where seperate pieces of tape meet.   
+If you have have soldering iron you can solder each place where seperate pieces of tape meet.   
 ![SolderGates4.JPG](SolderGates4.JPG)    
-Bend the leads of the LED out as shown and solder it into place. You may find the binder clip helpful to keep the LED from moving as you solder the leads.   
+Bend the leads of the LED out as shown and tape or solder it into place. You may find the binder clip helpful to keep the LED from moving as you solder the leads.   
 ![SolderGates5.JPG](SolderGates5.JPG) 
 When you are finished, put the battery in position between the tail and the rest of the circuit. You can use the binder clip to hold the battery in place. If the LED doesn't light up, flip the battery over upside down. The LED should light up as shown below.   
 ![SolderGates6.JPG](SolderGates6.JPG)    
@@ -34,5 +33,6 @@ To make an ***AND*** gate put two switches in series in a circuit as shown below
 ![SolderGates9.PNG](SolderGates9.PNG)   
 
 To make an ***OR*** gate put two switches in parallel in a circuit as shown below.  
+![SolderGates10.PNG](SolderGates10.PNG) 
 
 *This assignment is based on Jie Qi's [High-Low Tech Paper Circuits](http://highlowtech.org/?p=2505)*
