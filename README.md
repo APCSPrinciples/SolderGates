@@ -17,7 +17,7 @@ To make the basic circuit, stick copper tape on the card stock in the following 
 ![SolderGates7.JPG](SolderGates7.JPG)   
 The tail will fold over the top of the button cell battery as shown below,   
 ![SolderGates3.JPG](SolderGates3.JPG)    
-If you have have a soldering iron you can solder each place where separate pieces of tape meet.   
+If you have a soldering iron you can solder each place where separate pieces of tape meet.   
 ![SolderGates4.JPG](SolderGates4.JPG)    
 Bend the leads of the LED out as shown and then tape or solder it into place. If you are soldering, you may find the binder clip helpful to keep the LED from moving as you solder the leads.   
 ![SolderGates5.JPG](SolderGates5.JPG) 
